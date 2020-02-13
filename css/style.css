@@ -59,4 +59,19 @@ body {
   color: white;
 }
 
+.header {
+  font-size: 6px;
+  height: 75%;
+}
+
+.multi {
+  width: 100%;
+  height: 6px;
+}
+
+p:before {
+  content: "I am a strin withquate";
+  font-family: cursiveserif;
+}
+
 /*# sourceMappingURL=style.css.map */
