@@ -74,3 +74,20 @@ body{
         }
     }
 }
+
+.header{
+    font-size: 4px + 2;
+    height: 80% - 5%;
+}
+
+.multi{
+    width: 20% * 5;
+    height: (24px / 4);
+}
+
+p{
+    &:before{
+        content: "I am a strin with" + quate;
+        font-family: cursive + "serif";
+    }
+}
