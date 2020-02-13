@@ -37,4 +37,15 @@ body {
   transform: rotate(20deg) scale(1.5);
 }
 
+.border1, .border {
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: #333;
+  font-size: 1em;
+}
+
+.border1 {
+  margin: 20px;
+}
+
 /*# sourceMappingURL=style.css.map */
